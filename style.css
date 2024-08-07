@@ -1,0 +1,13 @@
+.Red {
+    height:850px;
+    width: 50%;
+    background-color: red;
+}
+.Blue {
+    height:850px;
+    width: 50%;
+    background-color:blue;
+}
+.container {
+    display: flex;
+}
